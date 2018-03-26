@@ -1,0 +1,311 @@
+[Script Info]
+Title: Português (Brasil)
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 624
+PlayResY: 366
+
+[Aegisub Project Garbage]
+Active Line: 1
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Main,Viga,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,2,40,40,15,1
+Style: Italics,Viga,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,1,2,40,40,15,1
+Style: Top,Viga,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,8,40,40,15,1
+Style: Narrator,Viga,22,&H00FFFFFF,&H000000FF,&H003D0705,&H00000000,-1,-1,0,0,100,100,0,0,1,2,1,2,40,40,15,1
+Style: Flashback,Viga,22,&H00E6E6E6,&H000000FF,&H00300000,&H00300000,-1,0,0,0,100,100,0,0,1,2,1,2,40,40,15,0
+Style: Overlap,Viga,22,&H00FFFFFF,&H000000FF,&H0017295D,&H0017295D,-1,0,0,0,100,100,0,0,1,2,1,2,40,40,15,0
+Style: Flashback Thought,Viga,22,&H00E6E6E6,&H000000FF,&H00300000,&H00300000,-1,-1,0,0,100,100,0,0,1,2,1,2,40,40,15,0
+Style: OpeningPT,Viga,22,&H00FFFFFF,&H000000FF,&H00683D1B,&H00381B0D,-1,0,0,0,100,100,0,0,1,3,1,2,40,40,15,1
+Style: OpeningJP,Viga,22,&H00FFFFFF,&H000000FF,&H001B399D,&H0013267C,-1,-1,0,0,100,100,0,0,1,3,1,8,40,40,15,1
+Style: EndingPT,Viga,22,&H00FFFFFF,&H000000FF,&H003F40C9,&H00000677,-1,0,0,0,100,100,0,0,1,3,1,2,40,40,15,1
+Style: EndingJP,Viga,22,&H00FFFFFF,&H000000FF,&H0036210B,&H00000000,-1,-1,0,0,100,100,0,0,1,3,1,8,40,40,15,1
+Style: EpTitle,Viga,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,8,40,40,15,1
+Style: Texto,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,8,10,10,10,1
+Style: Titulo,Viga,25,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,10,10,31,1
+Style: Titulo2,Times New Roman,25,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,10,10,14,1
+Style: Introtexto,Arial,24,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,-1,0,0,100,100,0,0,1,1,0,8,10,10,10,1
+Style: Default,Viga,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,2,40,40,15,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:03.00,0:00:17.10,EpTitle,,0,0,0,,{\fad(600,600)}vdbonline.blogspot.com
+Dialogue: 0,0:00:06.00,0:00:17.10,Narrator,,0,0,0,,{\fad(600,600)}EPISÓDIO 131
+Dialogue: 0,0:00:17.26,0:00:18.93,Main,,0,0,0,,{\i1}Dragon Ball Super{\i}
+Dialogue: 0,0:00:38.66,0:00:43.21,Main,Goku,0,0,0,,A conclusão do Torneio do Poder! \NNão percam o impactante final!
+Dialogue: 0,0:00:43.33,0:00:44.79,Main,Goku,0,0,0,,A seguir!
+Dialogue: 0,0:00:48.17,0:00:54.59,Narrator,Narr,0,0,0,,O feroz Torneio do Poder chega ao fim.
+Dialogue: 0,0:00:55.51,0:00:59.10,Main,Narr,0,0,0,,Goku dominou o Instinto Superio. Mas...
+Dialogue: 0,0:01:10.86,0:01:16.36,Main,Jiren,0,0,0,,Lamento ter de solucionar \Nnosso combate desta forma.
+Dialogue: 0,0:01:17.16,0:01:20.53,Main,Jiren,0,0,0,,Dito isto, mesmo que seu corpo desapareça,
+Dialogue: 0,0:01:20.66,0:01:24.33,Main,Jiren,0,0,0,,você viverá eternamente \Nem minhas memórias.
+Dialogue: 0,0:01:24.45,0:01:25.83,Main,Jiren,0,0,0,,Adeus.
+Dialogue: 0,0:01:38.34,0:01:45.52,Narrator,Narr,0,0,0,,Quem conquistará a Super Esfera do Dragão?
+Dialogue: 0,0:01:49.40,0:01:55.28,Narrator,Narr,0,0,0,,Um final milagroso!\NAdeus, Goku! Até a próxima!
+Dialogue: 0,0:02:00.20,0:02:01.91,Main,Jiren,0,0,0,,É inútil.
+Dialogue: 0,0:02:02.41,0:02:05.66,Main,Jiren,0,0,0,,É isso? Colocar na arena \Nalguém incapaz de lutar?
+Dialogue: 0,0:02:05.79,0:02:09.33,Main,Jiren,0,0,0,,É isso que vocês chamam de confiança?
+Dialogue: 0,0:02:09.79,0:02:12.71,Main,Frieza,0,0,0,,Confiança? O que quer dizer com isso?
+Dialogue: 0,0:02:14.21,0:02:16.80,Main,Jiren,0,0,0,,Não me faça me repetir.
+Dialogue: 0,0:02:16.92,0:02:18.76,Main,Frieza,0,0,0,,É só questão de segurança.
+Dialogue: 0,0:02:18.88,0:02:22.01,Main,Frieza,0,0,0,,Eu conquistarei a Super Esfera do Dragão.
+Dialogue: 0,0:02:22.14,0:02:26.06,Main,Frieza,0,0,0,,Portanto, não precisa se \Npreocupar em repetir nada!
+Dialogue: 0,0:02:26.18,0:02:31.40,Main,Frieza,0,0,0,,Já não sinto mais todo o \Npoder que você possuía.
+Dialogue: 0,0:02:32.90,0:02:37.28,Main,Frieza,0,0,0,,Você saboreará novamente a derrota...
+Dialogue: 0,0:02:37.95,0:02:39.74,Main,Frieza,0,0,0,,Em minhas mãos!
+Dialogue: 0,0:02:58.63,0:03:01.30,Main,17,0,0,0,,Que durões!
+Dialogue: 0,0:03:11.06,0:03:15.73,Main,Frieza,0,0,0,,Ora, onde foi parar aquela cara de paisagem?
+Dialogue: 0,0:03:15.86,0:03:16.61,Default,,0,0,0,,Silêncio!
+Dialogue: 0,0:03:16.73,0:03:21.28,Main,Frieza,0,0,0,,Quando a força se transforma em fraqueza...
+Dialogue: 0,0:03:21.41,0:03:25.28,Main,Frieza,0,0,0,,Parece que está ouvindo os \Nlamentos do seu coração.
+Dialogue: 0,0:03:25.41,0:03:29.00,Main,Frieza,0,0,0,,"Não quero voltar a ser fraco".
+Dialogue: 0,0:03:32.33,0:03:34.88,Main,Jiren,0,0,0,,Minha força se tornou fraqueza?
+Dialogue: 0,0:03:35.00,0:03:40.30,Main,Jiren,0,0,0,,Comprove se isso é mesmo verdade!
+Dialogue: 0,0:03:44.47,0:03:46.31,Main,Frieza,0,0,0,,Não leve tão a sério.
+Dialogue: 0,0:03:49.14,0:03:51.23,Main,17,0,0,0,,Desta vez não serão só leves feridas.
+Dialogue: 0,0:03:52.06,0:03:53.40,Main,Jiren,0,0,0,,Não me acertará uma segunda vez!
+Dialogue: 0,0:03:54.48,0:03:55.69,Main,17,0,0,0,,Eu lhe digo o mesmo.
+Dialogue: 0,0:03:59.32,0:04:00.82,Main,Frieza,0,0,0,,Não servirá de nada.
+Dialogue: 0,0:04:29.81,0:04:32.02,Main,Vermoud,0,0,0,,Jiren...!
+Dialogue: 0,0:04:35.69,0:04:38.40,Main,Beerus,0,0,0,,Conseguiram...
+Dialogue: 0,0:04:40.69,0:04:42.61,Main,Goku,0,0,0,,Esses dois são incríveis.
+Dialogue: 0,0:04:43.28,0:04:45.03,Default,,0,0,0,,Esses dois...
+Dialogue: 0,0:04:45.66,0:04:50.58,Default,,0,0,0,,Precisou usar todas as suas \Nforças para detê-lo, não foi?
+Dialogue: 0,0:04:51.12,0:04:56.88,Main,17,0,0,0,,Porque mesmo que eu perdesse, \Nainda restaria você.
+Dialogue: 0,0:04:57.63,0:04:59.34,Main,17,0,0,0,,Acabe logo com isso.
+Dialogue: 0,0:05:00.67,0:05:03.97,Main,Frieza,0,0,0,,Que honra ter sua confiança.
+Dialogue: 0,0:05:05.84,0:05:07.39,Main,Vermoud,0,0,0,,Jiren...
+Dialogue: 0,0:05:08.18,0:05:11.39,Main,Vermoud,0,0,0,,Jiren se saiu bem.
+Dialogue: 0,0:05:16.73,0:05:20.23,Main,Frieza,0,0,0,,Não lhe resta forças nem para me olhar?
+Dialogue: 0,0:05:20.73,0:05:26.82,Main,Frieza,0,0,0,,É uma pena não poder ver \Nseu rosto digno de pena.
+Dialogue: 0,0:05:34.12,0:05:36.17,Main,Toppo,0,0,0,,O que está fazendo, Jiren?
+Dialogue: 0,0:05:36.67,0:05:42.13,Main,Toppo,0,0,0,,Vai se apequenar diante do inimigo? Vai \Nterminar desta forma tão lamentável?
+Dialogue: 0,0:05:42.25,0:05:44.09,Main,Toppo,0,0,0,,Levante-se, Jiren!
+Dialogue: 0,0:05:44.21,0:05:46.47,Main,Frieza,0,0,0,,Que amigo mais barulhento você tem.
+Dialogue: 0,0:05:47.47,0:05:50.55,Main,Jiren,0,0,0,,Eu não tenho amigos.
+Dialogue: 0,0:05:50.68,0:05:56.39,Main,Toppo,0,0,0,,De onde tirou forças até agora, \Nse não confia em ninguém?
+Dialogue: 0,0:05:56.52,0:06:00.52,Main,Toppo,0,0,0,,Lute pelo seu próprio orgulho, até o fim!
+Dialogue: 0,0:06:01.86,0:06:06.90,Main,Toppo,0,0,0,,Mesmo que você não confie \Nem sua força, eu confio!
+Dialogue: 0,0:06:07.32,0:06:08.95,Main,Toppo,0,0,0,,Até o fim!
+Dialogue: 0,0:06:10.12,0:06:11.20,Default,,0,0,0,,Jiren.
+Dialogue: 0,0:06:11.91,0:06:13.70,Default,,0,0,0,,Você é forte!
+Dialogue: 0,0:06:14.20,0:06:15.62,Default,,0,0,0,,Você...
+Dialogue: 0,0:06:15.95,0:06:17.87,Default,,0,0,0,,...é mais forte do que qualquer um!
+Dialogue: 0,0:06:20.63,0:06:23.84,Main,Frieza,0,0,0,,Estão me dando ânsia de vômito.
+Dialogue: 0,0:06:24.30,0:06:25.42,Main,Jiren,0,0,0,,Silêncio.
+Dialogue: 0,0:06:31.30,0:06:32.76,Main,17,0,0,0,,Fuja, Freeza!
+Dialogue: 0,0:06:39.23,0:06:40.52,Main,17,0,0,0,,Concentre seu Ki!
+Dialogue: 0,0:06:40.65,0:06:42.11,Main,Frieza,0,0,0,,Não me dê ordens!
+Dialogue: 0,0:06:44.90,0:06:47.24,Main,17,0,0,0,,Contre mais ki!
+Dialogue: 0,0:06:47.36,0:06:51.45,Main,Frieza,0,0,0,,Não me dê ordens!
+Dialogue: 0,0:06:51.57,0:06:54.03,Main,Beerus,0,0,0,,Aguentem!
+Dialogue: 0,0:07:01.21,0:07:04.59,Main,Jiren,0,0,0,,Insolentes... Desapareçam!
+Dialogue: 0,0:07:09.01,0:07:11.55,Main,Goku,0,0,0,,Sinto muito, pessoal.
+Dialogue: 0,0:07:13.51,0:07:16.85,Main,Goku,0,0,0,,Deixei tudo nas suas costas.
+Dialogue: 0,0:07:17.27,0:07:19.06,Main,17,0,0,0,,Consegue se mexer?
+Dialogue: 0,0:07:19.18,0:07:22.19,Main,Goku,0,0,0,,Olha só quem fala!
+Dialogue: 0,0:07:22.81,0:07:24.98,Main,Goku,0,0,0,,Freeza e eu vamos na frente.
+Dialogue: 0,0:07:25.11,0:07:27.65,Main,Goku,0,0,0,,Você nos dá cobertura.
+Dialogue: 0,0:07:28.19,0:07:30.90,Main,Frieza,0,0,0,,Você também devia ficar como cobertura.
+Dialogue: 0,0:07:31.03,0:07:36.12,Main,Goku,0,0,0,,Freeza, todos nós já passamos \Ndos nossos limites faz tempo.
+Dialogue: 0,0:07:36.24,0:07:42.17,Main,Goku,0,0,0,,Se não cooperarmos plenamente, \Nserá o fim do 7º Universo.
+Dialogue: 0,0:07:42.29,0:07:44.17,Main,Jiren,0,0,0,,Son Goku!
+Dialogue: 0,0:07:44.29,0:07:48.09,Main,Jiren,0,0,0,,Volta a se erguer contra mim?
+Dialogue: 0,0:07:53.43,0:07:56.93,Main,Gohan,0,0,0,,Jiren está concentrando uma \Ntremenda quantidade de ki!
+Dialogue: 0,0:07:57.35,0:08:00.98,Main,Vegeta,0,0,0,,Jiren não tem mais dúvidas.
+Dialogue: 0,0:08:01.64,0:08:03.98,Main,Goku,0,0,0,,Jiren é impressionante.
+Dialogue: 0,0:08:04.10,0:08:07.32,Main,Goku,0,0,0,,Ele ficou muito mais forte sozinho.
+Dialogue: 0,0:08:07.69,0:08:11.32,Main,Goku,0,0,0,,Pode ser que não consigamos \Nvencê-lo nem em grupo.
+Dialogue: 0,0:08:12.15,0:08:17.12,Main,Frieza,0,0,0,,Lembra-se de que prometeu me reviver?
+Dialogue: 0,0:08:17.24,0:08:18.41,Main,Goku,0,0,0,,Freeza?
+Dialogue: 0,0:08:18.54,0:08:20.66,Main,Frieza,0,0,0,,Eu lhe fiz uma pergunta!
+Dialogue: 0,0:08:23.54,0:08:27.46,Main,Goku,0,0,0,,Se você não quebrar a sua promessa, \Neu não vou quebrar a minha.
+Dialogue: 0,0:08:28.05,0:08:31.84,Main,Goku,0,0,0,,Você sabe disso melhor \Ndo que ninguém, não é?
+Dialogue: 0,0:08:33.68,0:08:34.43,Main,Goku,0,0,0,,Freeza!
+Dialogue: 0,0:08:39.89,0:08:43.98,Main,Frieza,0,0,0,,Sua ingenuidade me deixa enojado,
+Dialogue: 0,0:08:44.10,0:08:46.90,Main,Frieza,0,0,0,,mas, desta vez, agradeço.
+Dialogue: 0,0:08:47.02,0:08:49.11,Main,17,0,0,0,,Terminaram de discutir a relação?
+Dialogue: 0,0:08:49.23,0:08:51.65,Main,Frieza,0,0,0,,Com ele, não me reconciliarei nem morto.
+Dialogue: 0,0:09:19.47,0:09:23.27,Main,Kuri,0,0,0,,Freeza e Goku estão lutando juntos!
+Dialogue: 0,0:09:54.88,0:09:56.84,Main,Frieza,0,0,0,,Lance-me!
+Dialogue: 0,0:09:57.80,0:09:58.64,Main,Goku,0,0,0,,Entendido!
+Dialogue: 0,0:10:11.32,0:10:15.99,Main,Kuri,0,0,0,,Freeza está pensando em se sacrificar \Npara eliminar Jiren da arena?
+Dialogue: 0,0:10:36.22,0:10:37.01,Main,17,0,0,0,,Acabe com isso!
+Dialogue: 0,0:10:37.13,0:10:39.18,Main,Beerus,0,0,0,,Goku! Freeza!
+Dialogue: 0,0:10:39.30,0:10:42.72,Main,Todos,0,0,0,,Vamos!{iris- alt. ¡Adelante!}
+Dialogue: 0,0:10:44.06,0:10:48.44,Italics,Jiren,0,0,0,,Isso é a confiança... É \No poder do 7º Universo...{int}
+Dialogue: 0,0:11:13.17,0:11:14.46,Main,Toppo,0,0,0,,Jiren!
+Dialogue: 0,0:11:14.59,0:11:16.59,Main,Goku,0,0,0,,Ai, ai, ai...
+Dialogue: 0,0:11:16.71,0:11:18.80,Main,Goku,0,0,0,,F-Freeza...
+Dialogue: 0,0:11:18.92,0:11:22.68,Main,Frieza,0,0,0,,Pare! Não ouse me agradecer.
+Dialogue: 0,0:11:23.26,0:11:27.10,Main,Frieza,0,0,0,,Basta-me que cumpra sua promessa.
+Dialogue: 0,0:11:27.22,0:11:30.02,Main,Goku,0,0,0,,Eu sei.
+Dialogue: 0,0:11:30.39,0:11:32.77,Main,GS,0,0,0,,Jiren saiu da arena.
+Dialogue: 0,0:11:33.52,0:11:38.03,Main,GS,0,0,0,,Com isso, o 11º Universo foi eliminado.
+Dialogue: 0,0:11:40.07,0:11:41.11,Main,Toppo,0,0,0,,Jiren...
+Dialogue: 0,0:11:42.87,0:11:44.12,Main,Toppo,0,0,0,,Obrigado.
+Dialogue: 0,0:11:44.78,0:11:46.29,Main,Jiren,0,0,0,,Por quê?
+Dialogue: 0,0:11:46.91,0:11:51.21,Main,Jiren,0,0,0,,Eu lutei desprezando-os...
+Dialogue: 0,0:11:51.33,0:11:52.37,Main,Goku,0,0,0,,Jiren!
+Dialogue: 0,0:11:53.13,0:11:59.59,Main,Goku,0,0,0,,A batalha acabou, mas quero \Nenfrentá-lo novamente.
+Dialogue: 0,0:11:59.72,0:12:02.47,Main,Goku,0,0,0,,Você pode não gostar da ideia,
+Dialogue: 0,0:12:02.59,0:12:07.72,Main,Goku,0,0,0,,mas acho que ficamos mais fortes lutando.
+Dialogue: 0,0:12:10.02,0:12:11.31,Main,Goku,0,0,0,,Quero voltar a te ver um dia.
+Dialogue: 0,0:12:23.36,0:12:24.91,Main,Vegeta,0,0,0,,Que sujeito incrível.
+Dialogue: 0,0:12:26.12,0:12:27.20,Main,Goku,0,0,0,,Sim.
+Dialogue: 0,0:12:28.49,0:12:30.16,Main,GS,0,0,0,,Androide Nº 17.
+Dialogue: 0,0:12:31.46,0:12:34.21,Main,GS,0,0,0,,Qual será seu desejo?
+Dialogue: 0,0:12:54.69,0:12:55.48,Main,Gohan,0,0,0,,São as...
+Dialogue: 0,0:12:57.36,0:12:59.40,Main,Goku,0,0,0,,...Super Esferas do Dragão!
+Dialogue: 0,0:13:07.87,0:13:12.00,Main,GS,0,0,0,,Ojesed uem o ezilaer e, Sesued \Nsod Oãgard, açerapa! {Apareça, Dragão dos Deuses, e realize o meu desejo!}
+Dialogue: 0,0:13:12.83,0:13:13.91,Main,GS,0,0,0,,Cabeça rapada! {ref. ep 58}
+Dialogue: 0,0:13:35.69,0:13:38.86,Main,GS,0,0,0,,Faça seu desejo, Número 17.
+Dialogue: 0,0:13:42.57,0:13:43.90,Main,18,0,0,0,,O que houve?
+Dialogue: 0,0:13:44.24,0:13:46.15,Main,Rey p,0,0,0,,Pode pedir o que quiser.
+Dialogue: 0,0:13:46.28,0:13:48.07,Main,Rey f,0,0,0,,Qualquer coisa.
+Dialogue: 0,0:13:48.20,0:13:49.62,Main,Rey p,0,0,0,,Qualquer desejo.
+Dialogue: 0,0:13:49.74,0:13:50.95,Main,Reyes,0,0,0,,O que vai pedir?
+Dialogue: 0,0:13:56.54,0:14:00.79,Main,17,0,0,0,,Restaure à normalidade os \Nuniversos que desapareceram.
+Dialogue: 0,0:14:00.92,0:14:01.63,Main,Kuri,0,0,0,,O quê?!
+Dialogue: 0,0:14:06.43,0:14:08.47,Main,Rey p,0,0,0,,Tem certeza?
+Dialogue: 0,0:14:08.59,0:14:09.64,Main,Ret f,0,0,0,,Absoluta?
+Dialogue: 0,0:14:09.76,0:14:13.77,Main,17,0,0,0,,Rápido. Guardas-florestais \Nsão muito ocupados.
+Dialogue: 0,0:14:15.98,0:14:22.73,Main,GS,0,0,0,,Marecerapased euq sosrevinu \Nso edadilamron à eruatser.{iris- again, lenguaje de los dioses, así que habla del revés}
+Dialogue: 0,0:14:38.25,0:14:40.46,Default,,0,0,0,,O-O quê?! O que houve?!
+Dialogue: 0,0:14:40.58,0:14:44.96,Main,Cauli,0,0,0,,Kale! Estamos vivas! Vivas!
+Dialogue: 0,0:14:45.30,0:14:46.42,Main,Kale,0,0,0,,Irmã!
+Dialogue: 0,0:14:46.55,0:14:50.47,Main,Cabba,0,0,0,,Você cumpriu sua promessa, mestre!
+Dialogue: 0,0:14:50.59,0:14:54.77,Main,Cauli,0,0,0,,Kyabe! Treine conosco para \Natingirmos o Super Saiyajin 3!
+Dialogue: 0,0:14:54.89,0:14:56.56,Main,Cabba,0,0,0,,A-Agora?
+Dialogue: 0,0:14:56.68,0:15:00.35,Main,Champa,0,0,0,,Não vou lhe parabenizar, irmão.
+Dialogue: 0,0:15:25.88,0:15:27.17,Main,Toppo,0,0,0,,Jiren...
+Dialogue: 0,0:15:27.30,0:15:31.09,Main,Jiren,0,0,0,,Son Goku disse que queria voltar a me ver.
+Dialogue: 0,0:15:31.89,0:15:38.81,Main,Jiren,0,0,0,,Mas vivo preso ao passado. Não \Nconsigo me conectar com ninguém.
+Dialogue: 0,0:15:39.18,0:15:43.56,Main,Toppo,0,0,0,,Não sabia que você era \Ntão covarde, Jiren.
+Dialogue: 0,0:15:44.48,0:15:49.28,Main,Toppo,0,0,0,,No último combate, você \Nlutou por nossas esperanças.
+Dialogue: 0,0:15:49.61,0:15:52.16,Main,Toppo,0,0,0,,Quando você se levantou de novo,
+Dialogue: 0,0:15:52.57,0:15:57.33,Main,Toppo,0,0,0,,não se sentiu enfim conectado \Na nós, pela primeira vez?
+Dialogue: 0,0:15:59.08,0:16:00.00,Main,Jiren,0,0,0,,Toppo...
+Dialogue: 0,0:16:00.41,0:16:04.54,Main,Toppo,0,0,0,,Da próxima vez que nos \Nencontrarmos, não perderemos.
+Dialogue: 0,0:16:06.84,0:16:07.59,Main,Jiren,0,0,0,,Sim!
+Dialogue: 0,0:16:09.84,0:16:14.97,Italics,Jiren,0,0,0,,Da próxima vez, eu vencerei. \NNos veremos, Goku!{int}
+Dialogue: 0,0:16:24.90,0:16:26.73,Main,18,0,0,0,,17!
+Dialogue: 0,0:16:27.32,0:16:29.07,Main,Kuri,0,0,0,,E-Ei! 18?
+Dialogue: 0,0:16:30.15,0:16:37.03,Main,Kuri,0,0,0,,Tem certeza? Não ia viajar \Nmundo afora com sua família?
+Dialogue: 0,0:16:37.66,0:16:39.04,Main,17,0,0,0,,Tudo bem.
+Dialogue: 0,0:16:40.08,0:16:42.33,Main,17,0,0,0,,Salvei vários universos.
+Dialogue: 0,0:16:42.71,0:16:46.88,Main,17,0,0,0,,Trabalharei e cuidarei da minha \Nfamília por conta própria.
+Dialogue: 0,0:16:47.84,0:16:49.42,Main,Goku,0,0,0,,Obrigado, 17!
+Dialogue: 0,0:16:50.76,0:16:52.38,Main,17,0,0,0,,Acho que isso é culpa de vocês.
+Dialogue: 0,0:16:53.38,0:16:56.76,Main,18,0,0,0,,Vocês estão cada vez mais parecidos.
+Dialogue: 0,0:16:57.60,0:17:03.64,Main,Frieza,0,0,0,,Se já acabamos, devolvam-me logo ao inferno.
+Dialogue: 0,0:17:03.77,0:17:07.31,Main,Goku,0,0,0,,Mas você ainda tem tempo, não tem?
+Dialogue: 0,0:17:07.77,0:17:14.20,Main,Frieza,0,0,0,,Assistir a um final feliz \Né como estar no inferno.
+Dialogue: 0,0:17:14.32,0:17:18.91,Main,Whis,0,0,0,,Então por que não experimenta \Nser feliz também?
+Dialogue: 0,0:17:20.87,0:17:21.87,Main,Whis,0,0,0,,Pronto.
+Dialogue: 0,0:17:27.84,0:17:28.67,Main,Kuri,0,0,0,,Desapareceu!
+Dialogue: 0,0:17:28.79,0:17:30.38,Main,Vegeta,0,0,0,,Isso significa que ele reviveu?
+Dialogue: 0,0:17:30.75,0:17:33.13,Main,Whis,0,0,0,,Um presente de Beerus.
+Dialogue: 0,0:17:33.26,0:17:36.84,Main,Whis,0,0,0,,Pelo trabalho bem feito.
+Dialogue: 0,0:17:37.89,0:17:39.43,Main,Frieza,0,0,0,,Têm certeza disso?
+Dialogue: 0,0:17:39.56,0:17:43.18,Main,Frieza,0,0,0,,Não tenho intenção de deixar \Nde ser quem sempre fui.
+Dialogue: 0,0:17:43.31,0:17:46.19,Main,Goku,0,0,0,,Se voltar a tramar, vou impedi-lo.
+Dialogue: 0,0:17:47.60,0:17:50.48,Main,Freiza,0,0,0,,Veremos.
+Dialogue: 0,0:17:50.61,0:17:51.82,Main,Reyes,0,0,0,,Goku!
+Dialogue: 0,0:17:51.94,0:17:53.28,Main,Goku,0,0,0,,Zen'oh!{iris- pusimos así lo de Zen-chan??}
+Dialogue: 0,0:17:53.40,0:17:55.32,Default,,0,0,0,,Epa!
+Dialogue: 0,0:17:55.61,0:17:57.70,Main,Rey p,0,0,0,,Foi muito divertido!
+Dialogue: 0,0:17:57.82,0:17:59.49,Main,Rey f,0,0,0,,Foi incrível!
+Dialogue: 0,0:17:59.62,0:18:04.12,Main,Kaio,0,0,0,,Não imaginei que o Número \N17 faria esse desejo.
+Dialogue: 0,0:18:04.25,0:18:07.88,Main,GS,0,0,0,,Zen'oh havia previsto o resultado.
+Dialogue: 0,0:18:08.33,0:18:09.92,Main,Kaio,0,0,0,,Sumo Sacerdote!
+Dialogue: 0,0:18:10.04,0:18:12.17,Main,GS,0,0,0,,Confiava que o guerreiro que venceria
+Dialogue: 0,0:18:12.30,0:18:18.09,Main,GS,0,0,0,,seria virtuoso e se compadeceria \Ndos demais universos.
+Dialogue: 0,0:18:18.22,0:18:21.89,Main,Beerus,0,0,0,,E se ele tivesse desejado outra coisa?
+Dialogue: 0,0:18:22.01,0:18:25.52,Main,GS,0,0,0,,Se fosse um desejo egoísta,
+Dialogue: 0,0:18:25.81,0:18:28.69,Main,GS,0,0,0,,Zen'oh acabaria com tudo.
+Dialogue: 0,0:18:30.73,0:18:33.73,Main,Vados,0,0,0,,Foi uma dura batalha pela sobrevivência.
+Dialogue: 0,0:18:34.07,0:18:37.95,Main,Whis,0,0,0,,Talvez Zen'oh já esperasse por isso.
+Dialogue: 0,0:18:38.24,0:18:41.99,Main,Whis,0,0,0,,Que Goku e os demais fossem \Nmudar alguma coisa. {}
+Dialogue: 0,0:18:42.12,0:18:44.12,Main,Whis,0,0,0,,Que as pessoas mudassem.
+Dialogue: 0,0:18:44.24,0:18:48.08,Main,Reyes,0,0,0,,E agora, Goku?
+Dialogue: 0,0:18:48.37,0:18:49.63,Main,Goku,0,0,0,,Deixa eu ver...
+Dialogue: 0,0:18:49.75,0:18:51.96,Main,Beerus,0,0,0,,S-S-S-Sinto muito, Zen'oh!
+Dialogue: 0,0:18:52.09,0:18:54.51,Main,Beerus,0,0,0,,Talvez outro dia!
+Dialogue: 0,0:18:54.63,0:18:57.13,Main,Kaio,0,0,0,,Estamos indo. Com sua licença!
+Dialogue: 0,0:18:57.93,0:19:04.60,Main,GS,0,0,0,,Magníficas lutas e magnífico \Ndesejo, 7º Universo.
+Dialogue: 0,0:19:06.77,0:19:10.65,Main,Reyes,0,0,0,,Você volta pra visitar, Goku?
+Dialogue: 0,0:19:10.77,0:19:13.32,Main,Goku,0,0,0,,Claro! Prometido!
+Dialogue: 0,0:19:13.65,0:19:14.78,Main,Goku,0,0,0,,Nos vemos por aí, Zen'oh!
+Dialogue: 0,0:19:18.40,0:19:19.61,Default,,0,0,0,,Sim!
+Dialogue: 0,0:19:27.08,0:19:33.00,Main,Narr,0,0,0,,O Torneio do Poder chegou ao fim,{iris- en teoría suena el opening de fondo}
+Dialogue: 0,0:19:33.84,0:19:38.51,Main,Narr,0,0,0,,e Goku e seus amigos voltam às suas rotinas.
+Dialogue: 0,0:19:38.63,0:19:41.13,OpeningJP,,0,0,0,,
+Dialogue: 0,0:19:38.63,0:19:41.13,OpeningPT,,0,0,0,,
+Dialogue: 0,0:19:41.26,0:19:43.76,OpeningPT,,0,0,0,,
+Dialogue: 0,0:19:41.26,0:19:43.76,OpeningJP,,0,0,0,,
+Dialogue: 0,0:19:43.89,0:19:48.85,OpeningPT,,0,0,0,,
+Dialogue: 0,0:19:43.89,0:19:48.85,OpeningJP,,0,0,0,,
+Dialogue: 0,0:19:48.98,0:19:51.35,OpeningPT,,0,0,0,,
+Dialogue: 0,0:19:48.98,0:19:51.35,OpeningJP,,0,0,0,,
+Dialogue: 0,0:19:51.48,0:19:53.98,OpeningPT,,0,0,0,,
+Dialogue: 0,0:19:51.48,0:19:53.98,OpeningJP,,0,0,0,,
+Dialogue: 0,0:19:54.11,0:19:59.19,OpeningPT,,0,0,0,,
+Dialogue: 0,0:19:54.11,0:19:59.19,OpeningJP,,0,0,0,,
+Dialogue: 0,0:19:59.32,0:20:01.66,OpeningPT,,0,0,0,,
+Dialogue: 0,0:19:59.32,0:20:01.66,OpeningJP,,0,0,0,,
+Dialogue: 0,0:20:01.78,0:20:04.24,OpeningPT,,0,0,0,,
+Dialogue: 0,0:20:01.78,0:20:04.24,OpeningJP,,0,0,0,,
+Dialogue: 0,0:20:04.37,0:20:09.50,OpeningPT,,0,0,0,,
+Dialogue: 0,0:20:04.37,0:20:09.50,OpeningJP,,0,0,0,,
+Dialogue: 0,0:20:09.62,0:20:12.04,OpeningPT,,0,0,0,,
+Dialogue: 0,0:20:09.62,0:20:12.04,OpeningJP,,0,0,0,,
+Dialogue: 0,0:20:12.17,0:20:14.46,OpeningPT,,0,0,0,,
+Dialogue: 0,0:20:12.17,0:20:14.46,OpeningJP,,0,0,0,,
+Dialogue: 0,0:20:14.59,0:20:19.72,OpeningPT,,0,0,0,,
+Dialogue: 0,0:20:14.59,0:20:19.72,OpeningJP,,0,0,0,,
+Dialogue: 0,0:20:21.80,0:20:26.93,OpeningPT,,0,0,0,,
+Dialogue: 0,0:20:21.80,0:20:26.93,OpeningJP,,0,0,0,,
+Dialogue: 0,0:20:27.06,0:20:31.81,OpeningPT,,0,0,0,,
+Dialogue: 0,0:20:27.06,0:20:31.81,OpeningJP,,0,0,0,,
+Dialogue: 0,0:20:31.94,0:20:37.15,OpeningPT,,0,0,0,,
+Dialogue: 0,0:20:31.94,0:20:37.15,OpeningJP,,0,0,0,,
+Dialogue: 0,0:20:37.27,0:20:42.28,OpeningPT,,0,0,0,,
+Dialogue: 0,0:20:37.27,0:20:42.28,OpeningJP,,0,0,0,,
+Dialogue: 0,0:20:42.40,0:20:48.41,OpeningPT,,0,0,0,,
+Dialogue: 0,0:20:42.40,0:20:48.41,OpeningJP,,0,0,0,,
+Dialogue: 0,0:20:57.42,0:21:01.01,Main,Frieza,0,0,0,,Perdão por deixá-los esperando.
+Dialogue: 0,0:21:01.34,0:21:06.01,Main,Frieza,0,0,0,,O Imperador do Universo regressou!
+Dialogue: 0,0:21:08.81,0:21:12.56,Main,Vegeta,0,0,0,,O que houve com o Instinto \NSuperior, Kakarotto?
+Dialogue: 0,0:21:13.02,0:21:14.06,Main,Goku,0,0,0,,Não consigo mais!
+Dialogue: 0,0:21:14.19,0:21:14.81,Main,Vegeta,0,0,0,,O quê?!
+Dialogue: 0,0:21:14.94,0:21:19.23,Main,Goku,0,0,0,,Acho que só consegui por acaso, \Nquando estava encurralado no torneio.
+Dialogue: 0,0:21:19.36,0:21:24.24,Main,Vegeta,0,0,0,,Então, conseguirei um poder ainda maior.
+Dialogue: 0,0:21:24.36,0:21:25.70,Main,Goku,0,0,0,,Espere, Vegeta!
+Dialogue: 0,0:21:25.82,0:21:29.91,Main,Vegeta,0,0,0,,Cale-se! Não permitirei que me ultrapasse!
+Dialogue: 0,0:21:33.04,0:21:37.58,Main,Goku,0,0,0,,Vegeta! Podemos ficar ainda mais fortes!
+Dialogue: 0,0:21:37.96,0:21:39.13,Main,Vegeta,0,0,0,,É lógico!
+Dialogue: 0,0:21:39.25,0:21:43.38,Main,Vegeta,0,0,0,,A força dos Saiyajins não tem limites!
+Dialogue: 0,0:21:45.43,0:21:49.72,Narrator,Narr,0,0,0,,O desafio sem fim da superação \Ndos limites continua!
+Dialogue: 0,0:21:50.01,0:21:56.90,Narrator,Narr,0,0,0,,Quando surgirem inimigos ainda desconhecidos, \Ncontinuarão as aventuras de Goku e seus amigos.
+Dialogue: 0,0:21:57.02,0:21:59.19,Narrator,Narr,0,0,0,,Até lá, nos despedimos.
+Dialogue: 0,0:22:00.82,0:22:03.57,Narrator,Narr,0,0,0,,Espero que voltemos a nos ver!
+Dialogue: 0,0:22:05.70,0:22:13.20,EndingJP,,0,0,0,,
+Dialogue: 0,0:22:05.70,0:22:13.20,EndingPT,,0,0,0,,
+Dialogue: 0,0:22:13.33,0:22:19.67,EndingJP,,0,0,0,,
+Dialogue: 0,0:22:13.33,0:22:19.67,EndingPT,,0,0,0,,
+Dialogue: 0,0:22:19.79,0:22:27.01,EndingJP,,0,0,0,,
+Dialogue: 0,0:22:19.79,0:22:27.01,EndingPT,,0,0,0,,
+Dialogue: 0,0:22:27.13,0:22:34.47,EndingJP,,0,0,0,,
+Dialogue: 0,0:22:27.13,0:22:34.47,EndingPT,,0,0,0,,
+Dialogue: 0,0:22:34.60,0:22:41.98,EndingJP,,0,0,0,,
+Dialogue: 0,0:22:34.60,0:22:41.98,EndingPT,,0,0,0,,
+Dialogue: 0,0:22:42.11,0:22:49.53,EndingJP,,0,0,0,,
+Dialogue: 0,0:22:42.11,0:22:49.53,EndingPT,,0,0,0,,
+Dialogue: 0,0:22:49.66,0:22:57.04,EndingJP,,0,0,0,,
+Dialogue: 0,0:22:49.66,0:22:57.04,EndingPT,,0,0,0,,
+Dialogue: 0,0:22:57.16,0:23:04.84,EndingJP,,0,0,0,,
+Dialogue: 0,0:22:57.16,0:23:04.84,EndingPT,,0,0,0,,
+Dialogue: 0,0:23:04.84,0:23:06.84,EndingJP,,0,0,0,,
+Dialogue: 0,0:23:04.84,0:23:06.84,EndingPT,,0,0,0,,
